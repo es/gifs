@@ -1564,6 +1564,41 @@
   extname: ".gif"
   w: 267
   h: 200
+- path: rockets/dprk-rocket.gif
+  modified_time: 1474486391
+  extname: ".gif"
+  w: 800
+  h: 520
+- path: rockets/falcon9-launch.gif
+  modified_time: 1474486384
+  extname: ".gif"
+  w: 615
+  h: 345
+- path: rockets/icbm.gif
+  modified_time: 1474486379
+  extname: ".gif"
+  w: 848
+  h: 476
+- path: rockets/reverse-falcon.gif
+  modified_time: 1474486378
+  extname: ".gif"
+  w: 524
+  h: 348
+- path: rockets/russian-icbm.gif
+  modified_time: 1474486360
+  extname: ".gif"
+  w: 480
+  h: 360
+- path: rockets/saturn-v-launch.gif
+  modified_time: 1474486428
+  extname: ".gif"
+  w: 320
+  h: 240
+- path: rockets/shuttle-launch.gif
+  modified_time: 1474486372
+  extname: ".gif"
+  w: 718
+  h: 404
 - path: samuel_l_jackson/who_this.gif
   modified_time: 1474485437
   extname: ".gif"
