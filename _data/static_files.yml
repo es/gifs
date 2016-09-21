@@ -139,6 +139,11 @@
   extname: ".gif"
   w: 475
   h: 335
+- path: bring-it/I-volunteer-as-tribute.gif
+  modified_time: 1473277770
+  extname: ".gif"
+  w: 600
+  h: 248
 - path: burn/ashton-kutcher-burn.gif
   modified_time: 1451692980
   extname: ".gif"
@@ -155,7 +160,7 @@
   w: 500
   h: 209
 - path: burn/fuck-it.gif
-  modified_time: 1463088717
+  modified_time: 1463089141
   extname: ".gif"
   w: 500
   h: 375
@@ -570,7 +575,7 @@
   w: 500
   h: 250
 - path: dog-humans/christmas.gif
-  modified_time: 1451693220
+  modified_time: 1474485642
   extname: ".gif"
   w: 720
   h: 720
@@ -1405,7 +1410,7 @@
   w: 300
   h: 308
 - path: nailed-it/falcon-landing.gif
-  modified_time: 1461003818
+  modified_time: 1463089140
   extname: ".gif"
   w: 718
   h: 404
@@ -1559,6 +1564,11 @@
   extname: ".gif"
   w: 267
   h: 200
+- path: samuel_l_jackson/who_this.gif
+  modified_time: 1474485437
+  extname: ".gif"
+  w: 640
+  h: 272
 - path: scared/3FlzE.gif
   modified_time: 1451692982
   extname: ".gif"
@@ -1840,10 +1850,10 @@
   w: 355
   h: 186
 - path: will-ferrell/everyone-wave-goodbye.gif
-  modified_time: 1451692982
+  modified_time: 1468596516
   extname: ".gif"
-  w: 360
-  h: 270
+  w: 720
+  h: 540
 - path: will-ferrell/kind-of-a-big-deal.gif
   modified_time: 1451692982
   extname: ".gif"
